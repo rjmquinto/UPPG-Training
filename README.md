@@ -1,2 +1,2 @@
 # UPPG-Training
-This is a repository of the materials/exercises for UP Programming Guild recruits.
+This is a repository of materials/exercises for the use of training UP Programming Guild recruits.
